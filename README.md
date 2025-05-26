@@ -14,7 +14,7 @@
 1. Clone ou baixe este repositório:
    ```bash
    git clone https://github.com/Andre-code1999/Py-Adventure.git
-   cd a-fortaleza-do-guardiao
+   cd : python jogo.py
 
 ### 🛠️ Ferramentas e Bibliotecas
 Python 3 – Linguagem principal do jogo.

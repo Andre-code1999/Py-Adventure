@@ -120,7 +120,7 @@ def cena_enigma(jogador):
 
 def cena_final(jogador):
     print("\nVocê encontra uma escada levando para fora da fortaleza.")
-    acao2=input("voce tem a chave que o guardiao lhe deu voce gostaria de 'explorar' mais a fortaleza e descobri o que se passa dentro dela, ou escolher 'ir embora' e deixar isso pra la?:")
+    acao2=input("voce tem a chave que o guardiao lhe deu voce gostaria de 'explorar' mais a fortaleza e descobri o que se passa lá dentro, ou escolher 'ir embora' e deixar isso pra la?:")
     if acao2 == "explorar":
         print("voce pega a chave que o guardiao lhe confio e volta pra dentro da caverna pra viver mais aventuras")
         return cena_final_alternativo
@@ -132,7 +132,6 @@ def cena_final(jogador):
         print("Final Comum: Você escolheu ir embora e deixar tudo pra lá.")
     
     return None
-
     
 def cena_final_alternativo(jogador):
     print("\nVocê entra denovo na fortaleza que aventuras macabras o aguardao?....")
