@@ -59,14 +59,16 @@ Digitar respostas textuais para enigmas e diálogos.
 ### 🖼️ Screenshots
 1. 🎬 Cena Inicial
 
-
+![Captura de tela 2025-05-26 104300](https://github.com/user-attachments/assets/a570058a-deb6-434c-b5ce-28b277fe7f35)
 
 
 2. ⚔️ Combate
 
-
+![Captura de tela 2025-05-26 104400](https://github.com/user-attachments/assets/5ff4e4af-728f-40da-be66-b771129f554b)
 
 
 3. 🧠 Enigma
+
+![Captura de tela 2025-05-26 104312](https://github.com/user-attachments/assets/c14188ec-73ed-46a9-9eb1-9cde371356f3)
 
 
