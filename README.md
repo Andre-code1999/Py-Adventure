@@ -13,7 +13,7 @@
 ### ▶️ Como executar
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/a-fortaleza-do-guardiao.git
+   git clone https://github.com/Andre-code1999/Py-Adventure.git
    cd a-fortaleza-do-guardiao
 
 ### 🛠️ Ferramentas e Bibliotecas
